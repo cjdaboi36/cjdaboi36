@@ -2,7 +2,7 @@
 
 I have a website, so thats cool I guess.
 
-[![My Website](https://api.cjdaboi36.uk/discord/profile/1050494667613012049)](https://cjdaboi36.uk)
+[![My Website](https://api.cjdaboi36.me/discord/profile/1050494667613012049)](https://cjdaboi36.me)
 
 ## Discord
 
